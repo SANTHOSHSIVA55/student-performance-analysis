@@ -156,3 +156,7 @@ Give it a ⭐ on GitHub and feel free to fork or contribute.
 
 **Learning by building. Improving by iteration.**
 
+
+<img width="1272" height="722" alt="image" src="https://github.com/user-attachments/assets/2028439c-fd34-4084-934c-0c9a9a320cda" />
+
+
