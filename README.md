@@ -58,6 +58,7 @@ This project answers these questions using real-world data.
 ```
 student-performance-analysis/
 │
+├── student-performance-analysis.pbix
 ├── data/
 │   ├── StudentsPerformance.csv
 │   └── processed_students_data.csv
